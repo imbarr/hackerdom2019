@@ -58,4 +58,4 @@ with open("./card.txt", "r") as file:
 	print(result)
 
 # result is FLAG-DB-INDEX 3801,VAL FLAG-B493801CDB-831ABDDFA628AC31
-# 							       --------------------------------
+#                                  --------------------------------
